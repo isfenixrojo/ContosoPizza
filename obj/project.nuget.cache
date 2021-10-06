@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h8oZRvDIMIKsALsR6awkGpEK+tVQsTIbyc698yLhZpqsch58xJ5MSmJIy/YYtHDt24cAfhYMq/fCGvEBOmNBrQ==",
+  "dgSpecHash": "PhAKk+8ZfhWU4Jw5cOohvF5LkDYC6HZNj1JJQJyPPKRxA8hdkr6qk60uxViQYbP1ImstOQgNgUaLLair5CzdsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isra\\Documents\\Cursos\\Curso .Net\\ContosoPizza\\ContosoPizza.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Isra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
   "logs": []
 }

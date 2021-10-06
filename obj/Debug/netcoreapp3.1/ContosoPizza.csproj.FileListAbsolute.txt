@@ -1,13 +1,11 @@
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.exe
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.deps.json
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.runtimeconfig.json
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.runtimeconfig.dev.json
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.dll
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\bin\Debug\netcoreapp3.1\ContosoPizza.pdb
-C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.csprojAssemblyReference.cache
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.AssemblyInfoInputs.cache
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.AssemblyInfo.cs
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.csproj.CoreCompileInputs.cache
@@ -18,3 +16,6 @@ C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\s
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.dll
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.pdb
 C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.genruntimeconfig.cache
+C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isra\Documents\Cursos\Curso .Net\ContosoPizza\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContosoPizza.styles.css
